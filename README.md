@@ -1,3 +1,147 @@
+# Development Topics
+
+## 📝 WordPress
+
+- Gutenberg Block Development
+- Theme Development
+- Child Themes
+- Custom Post Types (CPT)
+- Custom Taxonomies
+- WP REST API
+- ACF (Advanced Custom Fields)
+- Plugin Development
+- WooCommerce Development
+- Hooks: Actions vs Filters
+- WP Cron
+- Security & Hardening
+- Caching (W3, Redis Object Cache)
+- Multisite WordPress
+
+---
+
+## 🐘 PHP
+
+- OOP in PHP
+- Namespaces
+- Composer & Autoloading
+- Traits / Interfaces / Abstract Classes
+- Error Handling & Exceptions
+- PDO Database Access
+- MVC Concepts
+- REST API with PHP
+- Sessions & Cookies
+- Authentication & Authorization
+- PHP 8 Features (JIT, Attributes, Match expression)
+
+---
+
+## 🖥 Frontend Core Topics
+
+### HTML
+- Semantic HTML
+- Accessibility (a11y)
+- SEO tags
+
+### CSS
+- Flexbox
+- Grid
+- Responsive Design
+- Animations & Transitions
+- Tailwind CSS
+- SASS/SCSS
+
+### JavaScript
+- ES6+ Features
+- Async: Promise / async-await
+- DOM Manipulation
+- Fetch / Axios API calls
+- LocalStorage / SessionStorage
+
+---
+
+## ⚛️ Frontend Frameworks (Optional)
+
+### React
+- Functional Components
+- State & Props
+- Hooks (useEffect, useState, useMemo)
+- Context API
+- React Router
+- Redux / Zustand
+
+### Next.js
+- SSR / SSG
+- API routes
+- File-based routing
+- Middleware
+
+---
+
+## 🗂 Databases
+
+### SQL
+- Joins
+- Indexing
+- Transactions
+- Normalization
+- Stored Procedures
+- Views
+- Query Optimization
+
+### NoSQL
+- MongoDB Basics
+- Aggregation Pipeline
+- Sharding & Replication Concepts
+- Redis (as cache + pub/sub)
+
+---
+
+## 🛡 Security Basics
+
+- Hashing vs Encryption
+- JWT
+- OAuth2
+- CORS
+- SQL Injection Prevention
+- XSS & CSRF Protection
+- HTTPS / TLS
+- API Rate Limiting
+
+---
+
+## 🧪 Testing
+
+- Unit Testing
+- Integration Testing
+- Postman API Testing
+- Jest (JS)
+- PHPUnit (PHP)
+- Load Testing (k6, JMeter)
+
+---
+
+## ☁️ Cloud & DevOps (Light Topics)
+
+- CI/CD Basics
+- GitHub Actions
+- Nginx Basics
+- Load Balancing Basics
+- SSL Certificates
+- Domain & DNS Basics
+- Reverse Proxy vs Load Balancer
+
+---
+
+## 💼 Soft Skills (Real Career Needs)
+
+- Documentation Writing
+- Sprint Planning
+- Git Workflow (Git Flow, Trunk-based)
+- Code Reviews
+- Agile / Scrum Basics
+- Estimation & Ticket Breakdown
+
+
 # Backend & Infrastructure Learning Roadmap
 
 ## 📌 Main Topics (In Order)
