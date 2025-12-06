@@ -35,48 +35,6 @@
 
 ---
 
-## 🖥 Frontend Core Topics
-
-### HTML
-- Semantic HTML
-- Accessibility (a11y)
-- SEO tags
-
-### CSS
-- Flexbox
-- Grid
-- Responsive Design
-- Animations & Transitions
-- Tailwind CSS
-- SASS/SCSS
-
-### JavaScript
-- ES6+ Features
-- Async: Promise / async-await
-- DOM Manipulation
-- Fetch / Axios API calls
-- LocalStorage / SessionStorage
-
----
-
-## ⚛️ Frontend Frameworks (Optional)
-
-### React
-- Functional Components
-- State & Props
-- Hooks (useEffect, useState, useMemo)
-- Context API
-- React Router
-- Redux / Zustand
-
-### Next.js
-- SSR / SSG
-- API routes
-- File-based routing
-- Middleware
-
----
-
 ## 🗂 Databases
 
 ### SQL
@@ -87,12 +45,6 @@
 - Stored Procedures
 - Views
 - Query Optimization
-
-### NoSQL
-- MongoDB Basics
-- Aggregation Pipeline
-- Sharding & Replication Concepts
-- Redis (as cache + pub/sub)
 
 ---
 
@@ -132,7 +84,7 @@
 
 ---
 
-## 💼 Soft Skills (Real Career Needs)
+## 💼 Soft Skills
 
 - Documentation Writing
 - Sprint Planning
@@ -141,6 +93,7 @@
 - Agile / Scrum Basics
 - Estimation & Ticket Breakdown
 
+---
 
 # Backend & Infrastructure Learning Roadmap
 
